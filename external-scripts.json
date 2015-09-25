@@ -8,5 +8,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-azure-scripts/brain/storage-blob-brain",
-  "hubot-catme"
+  "hubot-catme",
+  "hubot-forecastio"
 ]
